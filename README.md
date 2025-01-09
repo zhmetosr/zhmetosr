@@ -7,14 +7,8 @@
 - 📚 我喜欢阅读技术书籍和博客，不断学习新知识，最近在阅读《Python编程：从入门到实践》.
 - 📈 我的目标是成为一名优秀的全栈开发者，能够独立完成从前端到后端的开发工作.
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=radical)](https://github.com/yourname/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=radical)](https://github.com/zhmetosr/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&layout=compact&theme=radical)](https://github.com/yourname/github-readme-stats)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=radical)](https://github.com/yourname/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&layout=compact&theme=radical)](https://github.com/yourname/github-readme-stats)
-
-[![Followers](https://img.shields.io/github/followers/yourname?style=social)](https://github.com/yourname)
-
-[![Stars](https://img.shields.io/github/stars/yourname?style=social)](https://github.com/yourname)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&layout=compact&theme=radical)](https://github.com/zhmetosr/github-readme-stats)
+[![Followers](https://img.shields.io/github/followers/yourname?style=social)](https://github.com/zhmetosr)
+[![Stars](https://img.shields.io/github/stars/yourname?style=social)](https://github.com/zhmetosr)
