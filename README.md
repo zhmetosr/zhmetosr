@@ -25,6 +25,6 @@
 - **博客**：[zhmetosr's Blog](https://zhmetosr.cn/)
 
 ## GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhmetosr&show_icons=true&theme=radical)](https://github.com/zhmetosr/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhmetosr&show_icons=true&theme=radical)](\https://github.com/stars/zhmetosr/lists/2024)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhmetosr&layout=compact&theme=radical)](https://github.com/zhmetosr/github-readme-stats)
