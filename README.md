@@ -1,6 +1,7 @@
 # zhmetosr
 
 ## 个人简介
+🥳
 你好，我是 **zhmetosr**，一名热爱编程和技术创新的软件工程师。我目前专注于后端开发和云计算技术，致力于构建高效、可扩展的系统架构。
 
 ## 技能栈
@@ -20,9 +21,8 @@
 - **技术分享**：喜欢在技术社区和博客上分享自己的学习心得和项目经验，希望能够帮助到更多的人，同时也从大家的反馈中不断进步.
 
 ## 联系方式
-- **邮箱**：[zhmetosr@example.com](mailto:zhmetosr@example.com)
-- **博客**：[zhmetosr's Blog](https://zhmetosr.github.io)
-- **LinkedIn**：[zhmetosr](https://www.linkedin.com/in/zhmetosr)
+- **邮箱**：[zhmetosr@example.com](mailto:1592243587@qq.com)
+- **博客**：[zhmetosr's Blog](https://zhmetosr.cn/)
 
 ## GitHub Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhmetosr&show_icons=true&theme=radical)](https://github.com/zhmetosr/github-readme-stats)
